@@ -23,7 +23,7 @@ Analyzed ecommerce sales data using **PostgreSQL** and **Python** to uncover:
 
 Insights were visualized in **Power BI**.
 
-🔗 [View full project on GitHub →]([#](https://github.com/Laysiakas/ecommerce-insights-vinted))
+🔗 [View full project on GitHub →]((https://github.com/Laysiakas/ecommerce-insights-vinted))
 
 ---
 
@@ -41,7 +41,8 @@ Insights were visualized in **Power BI**.
 
 - Email: edgste@yahoo.com
   
-- LinkedIn: [linkedin.com/in/edgaras]([#](https://www.linkedin.com/in/edgaras-steponaitis-146452180))
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/edgaras-steponaitis-146452180)
+
 
 ---
 
