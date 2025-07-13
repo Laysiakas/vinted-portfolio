@@ -41,7 +41,7 @@ Insights were visualized in **Power BI**.
 
 - Email: edgste@yahoo.com
   
-- LinkedIn: [linkedin.com/in/edgaras]([#](https://www.linkedin.com/in/edgaras-steponaitis-146452180/))
+- LinkedIn: [linkedin.com/in/edgaras]([#](https://www.linkedin.com/in/edgaras-steponaitis-146452180))
 
 ---
 
