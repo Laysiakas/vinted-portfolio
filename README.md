@@ -47,7 +47,7 @@ Insights were visualized in **Power BI**.
 
 📷 Preview
 
-![Vinted Portfolio Screenshot](./client/public/sc1.png) 
+![Vinted Portfolio Screenshot](client/public/sc1.png) 
 
 ---
 
