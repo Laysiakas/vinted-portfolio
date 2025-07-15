@@ -35,9 +35,9 @@ function Projects() {
                     It visualizes insights into user ratings, top-performing categories, and buyer behavior.
                 </p>
                 <div className="flex gap-4 flex-wrap justify-center mb-4">
-                    <img src="/sc1.png" alt="Page 1" className="w-64 rounded shadow" />
-                    <img src="/sc2.png" alt="Page 2" className="w-64 rounded shadow" />
-                    <img src="/sc3.png" alt="Page 3" className="w-64 rounded shadow" />
+                    <img src="/1sc.png" alt="Page 1" className="w-64 rounded shadow" />
+                    <img src="/2sc.png" alt="Page 2" className="w-64 rounded shadow" />
+                    <img src="/3sc.png" alt="Page 3" className="w-64 rounded shadow" />
                 </div>
                 <div className="flex gap-4 justify-center">
                     <a
