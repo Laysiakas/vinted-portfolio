@@ -25,6 +25,40 @@ function Projects() {
                     View full project on GitHub →
                 </a>
             </div>
+            {/* Vinted Power BI Dashboard */}
+            <div className="bg-white shadow-md rounded-md p-6 mb-8">
+                <h3 className="text-xl font-semibold mb-2 text-blue-700">
+                    Vinted Power BI Dashboard
+                </h3>
+                <p className="mb-4 text-gray-700">
+                    This project analyzes marketplace data using <strong>PostgreSQL</strong>, <strong>Python</strong>, and <strong>Power BI</strong>.
+                    It visualizes insights into user ratings, top-performing categories, and buyer behavior.
+                </p>
+                <div className="flex gap-4 flex-wrap justify-center mb-4">
+                    <img src="/sc1.png" alt="Page 1" className="w-64 rounded shadow" />
+                    <img src="/sc2.png" alt="Page 2" className="w-64 rounded shadow" />
+                    <img src="/sc3.png" alt="Page 3" className="w-64 rounded shadow" />
+                </div>
+                <div className="flex gap-4 justify-center">
+                    <a
+                        href="https://github.com/Laysiakas/vinted-powerbi-dashboard"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="text-blue-600 hover:underline"
+                    >
+                        View on GitHub →
+                    </a>
+                    <a
+                        href="/dashboard.pdf"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="text-blue-600 hover:underline"
+                    >
+                        Download Dashboard PDF →
+                    </a>
+                </div>
+            </div>
+
         </section>
     );
 }
